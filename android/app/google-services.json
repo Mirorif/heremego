@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401010575915",
+    "project_id": "heremego-eeaa8",
+    "storage_bucket": "heremego-eeaa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401010575915:android:bf109d4e1db7dae77bb86e",
+        "android_client_info": {
+          "package_name": "com.example.heremego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401010575915-giqec26o2imififcvog2c00gv6658efn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAzpzvxt-rjLtIZjPFPgA3-C0rtMsUmHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401010575915-giqec26o2imififcvog2c00gv6658efn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
